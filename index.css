@@ -15,7 +15,8 @@ body{
     justify-content: center;
     align-items: center;
 }
-.videoContainer{
+/* 22C-4 */
+body div{
     width: 90vw;
     height: 300px;
     display: flex;
@@ -31,4 +32,9 @@ body{
     padding: 10px;
     background-color: darkblue;
     text-align: center;
+}
+/* 22C-5 */
+button + h1{
+    color: white;
+    padding: 20px;
 }
