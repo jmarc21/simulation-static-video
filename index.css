@@ -38,3 +38,9 @@ button + h1{
     color: white;
     padding: 20px;
 }
+h1 + h3{
+    /* 25D */
+    float: right;
+    padding-right: 30px;
+    color: white;
+}
