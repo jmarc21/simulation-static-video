@@ -44,3 +44,10 @@ h1 + h3{
     padding-right: 30px;
     color: white;
 }
+h3 + h2{
+    width: 100px;
+    display: flex;
+    /* 27E */
+    flex-wrap: wrap;
+    color: white;
+}
